@@ -15,11 +15,7 @@ import {
   PermissionsAndroid,
 } from 'react-native';
 
-<<<<<<< HEAD
-import {request, PERMISSIONS} from 'react-native-permissions';
-=======
 import { request, PERMISSIONS, RESULTS } from 'react-native-permissions';
->>>>>>> 7158a9fc804a444b371fa0d1417abf8ec91a0272
 import { RNCamera as Camera } from 'react-native-camera';
 
 const CAMERA_FLASH_MODE = Camera.Constants.FlashMode;
