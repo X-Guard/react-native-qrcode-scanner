@@ -38,7 +38,7 @@
     "eslint": "^4.19.1",
     "husky": "^0.14.3",
     "lint-staged": "^7.1.0",
-    "prettier": "^1.12.1"
+    "prettier": "^1.19.1"
   },
   "peerDependencies": {
     "react-native-camera": "^1.0.2"
