@@ -1,6 +1,6 @@
 {
   "name": "@x-guard/react-native-qrcode-scanner",
-  "version": "1.2.5",
+  "version": "1.2.6",
   "description": "A QR code scanner for React Native.",
   "main": "index.js",
   "scripts": {
