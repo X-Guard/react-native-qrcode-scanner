@@ -29,7 +29,7 @@
   "dependencies": {
     "@react-native-community/async-storage": "^1.6.1",
     "opencollective-postinstall": "^2.0.2",
-    "prop-types": "^15.5.10",
+    "prop-types": "^15.7.2",
     "react-native-permissions": "^2.0.2",
     "opencollective": "^1.0.3"
   },
